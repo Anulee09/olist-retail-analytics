@@ -29,4 +29,15 @@ Dataset link: https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce\
 Raw data files are not uploaded to this repository. To reproduce this project, download the dataset from Kaggle and place the CSV files inside:\
 \
 ```text\
-data/raw/}
+data/raw/\
+\
+## Visualizations\
+\
+### Monthly Revenue Trend\
+![Monthly Revenue Trend](visuals/monthly_revenue_trend.png)\
+\
+### Top Categories by Revenue\
+![Top Categories by Revenue](visuals/top_categories_by_revenue.png)\
+\
+### Review Score Distribution\
+![Review Score Distribution](visuals/review_score_distribution.png)}
