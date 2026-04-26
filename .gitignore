@@ -1,0 +1,15 @@
+```gitignore
+data/raw/
+data/processed/
+
+*.db
+*.sqlite
+*.sqlite3
+
+.ipynb_checkpoints/
+__pycache__/
+.venv/
+env/
+
+.DS_Store
+.env
