@@ -5,31 +5,84 @@
 \margl1440\margr1440\vieww11520\viewh8400\viewkind0
 \pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
 
-\f0\fs24 \cf0 # Olist Retail Analytics Project\
+\f0\fs24 \cf0 #  Olist Retail Analytics Project\
 \
-## Project Overview\
-This is an end-to-end retail analytics project using SQL, SQLite, Python, and Jupyter Notebook.\
+![Python](https://img.shields.io/badge/Python-Data%20Analysis-blue)\
+![SQL](https://img.shields.io/badge/SQL-SQLite-green)\
+![Jupyter](https://img.shields.io/badge/Notebook-Jupyter-orange)\
+![Status](https://img.shields.io/badge/Project-Completed-brightgreen)\
 \
-The goal of this project is to analyze e-commerce retail data and understand business performance across sales, customers, products, delivery, and customer satisfaction.\
+---\
 \
-## Business Problem\
+#  Project Overview\
+\
+An end-to-end retail analytics project using **SQL, SQLite, Python, and Jupyter Notebook**.\
+\
+This project analyzes e-commerce business performance across:\
+\
+- Sales trends\
+- Product performance\
+- Customer behavior\
+- Delivery operations\
+- Customer satisfaction\
+\
+The goal is to convert raw transactional data into actionable business insights.\
+\
+---\
+\
+#  Business Problem\
+\
 An e-commerce company wants to understand:\
 \
-- How sales are performing over time\
-- Which product categories drive the most revenue\
-- Whether customers are returning or buying only once\
-- How delivery delays affect customer satisfaction\
-- What business actions can improve growth and customer experience\
+- Are sales growing over time?\
+- Which product categories drive the most revenue?\
+- Are customers returning or buying only once?\
+- How do delivery delays impact customer satisfaction?\
+- What actions can improve growth and retention?\
 \
-## Dataset\
-This project uses the Olist Brazilian E-commerce Public Dataset from Kaggle.\
+---\
 \
-Dataset link: https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce\
+# Tools & Skills Used\
 \
-Raw data files are not uploaded to this repository. To reproduce this project, download the dataset from Kaggle and place the CSV files inside:\
+## Tools\
+- Python\
+- SQLite\
+- SQL\
+- pandas\
+- matplotlib\
+- seaborn\
+- Jupyter Notebook\
+- GitHub\
+\
+## SQL Skills\
+- Joins\
+- CTEs\
+- Window Functions\
+- Aggregations\
+- CASE WHEN\
+- GROUP BY\
+- ORDER BY\
+\
+## Analytics Skills\
+- KPI Analysis\
+- Customer Segmentation\
+- Trend Analysis\
+- Business Storytelling\
+- Data Visualization\
+\
+---\
+\
+# \uc0\u55357 \u56514  Project Structure\
 \
 ```text\
-data/raw/\
+olist-retail-analytics/\
+\uc0\u9500 \u9472 \u9472  notebooks/\
+\uc0\u9500 \u9472 \u9472  sql/\
+\uc0\u9500 \u9472 \u9472  visuals/\
+\uc0\u9500 \u9472 \u9472  reports/\
+\uc0\u9500 \u9472 \u9472  README.md\
+\uc0\u9500 \u9472 \u9472  requirements.txt\
+\uc0\u9492 \u9472 \u9472  .gitignore\
 \
 ## Visualizations\
 \
